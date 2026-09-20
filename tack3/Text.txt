@@ -1,0 +1,14 @@
+areaInFeet = width * length
+areaInInch= areainfeet * 144
+tiles= areaInInch /36
+Algorithm: 
+1. START
+2. INPUT roomWidth, roomLength
+3. SET roomArea = roomWidth *
+roomLength
+4. SET tileSquareFeet = (6 / 12) * (6 /
+12)
+5. SET numOfTiles = roomArea /
+tileSquareFeet
+6. OUTPUT numOfTiles
+7. STOP

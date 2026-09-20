@@ -4,5 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="tack2new/tack2new.vcxproj" Id="f5fdddd7-7ec9-4eb3-ab17-7ebf91fe0dc2" />
+  <Project Path="tack3/tack3.vcxproj" Id="63abd98f-a74f-4378-b8a0-988f6c671617" />
   <Project Path="task1/task1.vcxproj" Id="3bada6f0-1ee3-4577-b2c0-c14b3db6ed81" />
 </Solution>

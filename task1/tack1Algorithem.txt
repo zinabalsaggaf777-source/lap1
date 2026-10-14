@@ -1,5 +1,0 @@
-step1:start
-step2:Enter First value,
-second value,
-step3:product=Firstvalue* second value
-step4:output product

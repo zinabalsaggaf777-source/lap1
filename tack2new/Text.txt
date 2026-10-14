@@ -1,5 +1,0 @@
-1. START
-2. INPUT baseSalary, totalSales,commissionRate
-3. SET pay = baseSalary + totalSales *commissionRate
-4. OUTPUT pay
-5. STOP

@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="tack3/tack3.vcxproj" Id="dbbca030-683c-4e5d-b31a-fe516ea5f38d" />
-</Solution>
